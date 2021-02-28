@@ -1,4 +1,4 @@
-# from math import *
+import math
 #
 # a = "12345"
 # b = "Ala ma kota"
@@ -106,4 +106,83 @@ print(znakiod)
 
 zadanie4 = "Zadanie 4"
 print(zadanie4)
+
+# e = e ** 10
+# print(e)
+
+# x=(log(5 + sin(8)**2))
+# y=pow(x,1/6)
+#
+# print(y)
+
+print(math.floor(3.55))
+print(math.ceil(4.80))
+result = (math.log(5 + (math.sin(8) ** 2))) ** 1 / 6
+print(result)
+
+znakiod = "----------------------------------------------------"
+print(znakiod)
+
+# Zadanie 5#
+
+zadanie5="Zadanie 5"
+print(zadanie5)
+
+imie = "SZYMON"
+nazwisko = "MIL"
+
+print(imie.capitalize(),nazwisko.capitalize())
+
+znakiod = "----------------------------------------------------"
+print(znakiod)
+
+# Zadanie 6 #
+
+zadanie6="Zadanie 6"
+print(zadanie6)
+
+slowa = "la la la la"
+
+print(slowa.count("la"))
+
+znakiod = "----------------------------------------------------"
+print(znakiod)
+
+# Zadanie 7 #
+
+zadanie7="Zadanie 7"
+print(zadanie7)
+
+indeks = "Monsterek"
+print(indeks[1],indeks[8])
+
+znakiod = "----------------------------------------------------"
+print(znakiod)
+
+# Zadanie 8 #
+
+zadanie8="Zadanie 8"
+print(zadanie8)
+
+print(slowa.split())
+
+znakiod = "----------------------------------------------------"
+print(znakiod)
+
+# Zadanie 9 #
+
+zadanie9="Zadanie 9"
+print(zadanie9)
+
+tekst = "Slowo"
+liczba1 = 15
+liczba2 = 2
+
+print(tekst)
+print(float(liczba1))
+print(hex(liczba2))
+
+
+
+
 
