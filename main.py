@@ -107,13 +107,10 @@ print(znakiod)
 zadanie4 = "Zadanie 4"
 print(zadanie4)
 
-# e = e ** 10
-# print(e)
-
-# x=(log(5 + sin(8)**2))
-# y=pow(x,1/6)
-#
-# print(y)
+z = [3,55]
+print(min(z))
+d = [4,80]
+print(max(d))
 
 print(math.floor(3.55))
 print(math.ceil(4.80))
