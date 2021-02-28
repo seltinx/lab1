@@ -107,6 +107,7 @@ print(znakiod)
 zadanie4 = "Zadanie 4"
 print(zadanie4)
 
+
 z = [3,55]
 print(min(z))
 d = [4,80]
